@@ -31,11 +31,11 @@ export const CONTENT = {
       sub: "Active services and pipelines in production.",
       items: [
         { 
-          id: "01", name: "Lab Frontend", kind: "next.js · vercel", year: "2026", 
+          id: "01", name: "Lab Hub (Next.js)", kind: "next.js · cloudflare", year: "2026", 
           desc: "Drug catalog and item management dashboard with premium aesthetics and optimized UX.", 
           tag: "LIVE",
-          github: "https://github.com/SvarogMyl/lab-frontend-nextjs",
-          live: "https://lab-frontend-nextjs.vercel.app/"
+          github: "https://github.com/SvarogMyl/lab-hub-nextjs",
+          live: "https://lab-hub-nextjs.yannickvalderasm.workers.dev/"
         },
         { 
           id: "02", name: "Backend Core", kind: "java · spring", year: "2026", 
@@ -82,7 +82,7 @@ export const CONTENT = {
       tag: "// tech_manifest",
       title: "The Stack",
       groups: [
-        { label: "cloud providers", items: ["Render", "Vercel", "Supabase", "AWS"] },
+        { label: "cloud providers", items: ["Cloudflare", "Render", "Vercel", "Supabase", "AWS"] },
         { label: "core languages", items: ["Java 21", "Node.js 20", "Go 1.22", "Python 3.10", "TypeScript"] },
         { label: "storage", items: ["PostgreSQL", "Redis", "DuckDB"] },
         { label: "devops", items: ["Docker", "GitHub Actions", "Terraform"] },
@@ -161,11 +161,11 @@ export const CONTENT = {
       sub: "Servicios activos y pipelines en producción.",
       items: [
         { 
-          id: "01", name: "Lab Frontend", kind: "next.js · vercel", year: "2026", 
+          id: "01", name: "Lab Hub (Next.js)", kind: "next.js · cloudflare", year: "2026", 
           desc: "Catálogo de medicamentos y dashboard de gestión de ítems con estética premium y UX optimizada.", 
           tag: "LIVE",
-          github: "https://github.com/SvarogMyl/lab-frontend-nextjs",
-          live: "https://lab-frontend-nextjs.vercel.app/"
+          github: "https://github.com/SvarogMyl/lab-hub-nextjs",
+          live: "https://lab-hub-nextjs.yannickvalderasm.workers.dev/"
         },
         { 
           id: "02", name: "Backend Core", kind: "java · spring", year: "2026", 
@@ -212,7 +212,7 @@ export const CONTENT = {
       tag: "// manifiesto_tech",
       title: "El Stack",
       groups: [
-        { label: "cloud providers", items: ["Render", "Vercel", "Supabase", "AWS"] },
+        { label: "cloud providers", items: ["Cloudflare", "Render", "Vercel", "Supabase", "AWS"] },
         { label: "lenguajes core", items: ["Java 21", "Node.js 20", "Go 1.22", "Python 3.10", "TypeScript"] },
         { label: "almacenamiento", items: ["PostgreSQL", "Redis", "DuckDB"] },
         { label: "devops", items: ["Docker", "GitHub Actions", "Terraform"] },
